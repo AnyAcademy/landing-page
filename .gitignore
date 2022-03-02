@@ -60,6 +60,9 @@ typings/
 # next.js build output
 .next
 
+# Jekyll
+.jekyll-cache
+
 # Mac
 .DS_Store
 

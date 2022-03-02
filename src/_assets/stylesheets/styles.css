@@ -2,5 +2,4 @@
 @import 'utils/_accessibility.css';
 
 a {
-	@apply text-ws-orange-500;
 }
