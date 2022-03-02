@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+        
+        <url>
+            <loc>https://eleventywebstarter.netlify.app/about/</loc>
+            <lastmod>2022-03-02</lastmod>
+        </url>
+        
+        <url>
+            <loc>https://eleventywebstarter.netlify.app/blog/</loc>
+            <lastmod>2022-03-02</lastmod>
+        </url>
+        
+        <url>
+            <loc>https://eleventywebstarter.netlify.app/company/</loc>
+            <lastmod>2022-03-02</lastmod>
+        </url>
+        
+        <url>
+            <loc>https://eleventywebstarter.netlify.app/contact/</loc>
+            <lastmod>2022-03-02</lastmod>
+        </url>
+        
+        <url>
+            <loc>https://eleventywebstarter.netlify.app/dashboard/</loc>
+            <lastmod>2022-03-02</lastmod>
+        </url>
+        
+        <url>
+            <loc>https://eleventywebstarter.netlify.app/features/</loc>
+            <lastmod>2022-03-02</lastmod>
+        </url>
+        
+        <url>
+            <loc>https://eleventywebstarter.netlify.app/humans.txt</loc>
+            <lastmod>2022-03-02</lastmod>
+        </url>
+        
+        <url>
+            <loc>https://eleventywebstarter.netlify.app/</loc>
+            <lastmod>2022-03-02</lastmod>
+        </url>
+        
+        <url>
+            <loc>https://eleventywebstarter.netlify.app/partners/</loc>
+            <lastmod>2022-03-02</lastmod>
+        </url>
+        
+        <url>
+            <loc>https://eleventywebstarter.netlify.app/product/</loc>
+            <lastmod>2022-03-02</lastmod>
+        </url>
+        
+        <url>
+            <loc>https://eleventywebstarter.netlify.app/sign-in/</loc>
+            <lastmod>2022-03-02</lastmod>
+        </url>
+</urlset>
