@@ -2,57 +2,57 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
         
         <url>
-            <loc>https://eleventywebstarter.netlify.app/about/</loc>
+            <loc>https://eleventywebstarter.netlify.app/landing-page/about/</loc>
             <lastmod>2022-03-02</lastmod>
         </url>
         
         <url>
-            <loc>https://eleventywebstarter.netlify.app/blog/</loc>
+            <loc>https://eleventywebstarter.netlify.app/landing-page/blog/</loc>
             <lastmod>2022-03-02</lastmod>
         </url>
         
         <url>
-            <loc>https://eleventywebstarter.netlify.app/company/</loc>
+            <loc>https://eleventywebstarter.netlify.app/landing-page/company/</loc>
             <lastmod>2022-03-02</lastmod>
         </url>
         
         <url>
-            <loc>https://eleventywebstarter.netlify.app/contact/</loc>
+            <loc>https://eleventywebstarter.netlify.app/landing-page/contact/</loc>
             <lastmod>2022-03-02</lastmod>
         </url>
         
         <url>
-            <loc>https://eleventywebstarter.netlify.app/dashboard/</loc>
+            <loc>https://eleventywebstarter.netlify.app/landing-page/dashboard/</loc>
             <lastmod>2022-03-02</lastmod>
         </url>
         
         <url>
-            <loc>https://eleventywebstarter.netlify.app/features/</loc>
+            <loc>https://eleventywebstarter.netlify.app/landing-page/features/</loc>
             <lastmod>2022-03-02</lastmod>
         </url>
         
         <url>
-            <loc>https://eleventywebstarter.netlify.app/humans.txt</loc>
+            <loc>https://eleventywebstarter.netlify.app/landing-page/humans.txt</loc>
             <lastmod>2022-03-02</lastmod>
         </url>
         
         <url>
-            <loc>https://eleventywebstarter.netlify.app/</loc>
+            <loc>https://eleventywebstarter.netlify.app/landing-page/</loc>
             <lastmod>2022-03-02</lastmod>
         </url>
         
         <url>
-            <loc>https://eleventywebstarter.netlify.app/partners/</loc>
+            <loc>https://eleventywebstarter.netlify.app/landing-page/partners/</loc>
             <lastmod>2022-03-02</lastmod>
         </url>
         
         <url>
-            <loc>https://eleventywebstarter.netlify.app/product/</loc>
+            <loc>https://eleventywebstarter.netlify.app/landing-page/product/</loc>
             <lastmod>2022-03-02</lastmod>
         </url>
         
         <url>
-            <loc>https://eleventywebstarter.netlify.app/sign-in/</loc>
+            <loc>https://eleventywebstarter.netlify.app/landing-page/sign-in/</loc>
             <lastmod>2022-03-02</lastmod>
         </url>
 </urlset>
