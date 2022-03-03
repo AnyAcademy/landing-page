@@ -1,5 +1,5 @@
 const htmlmin = require("html-minifier");
-const isProduction = process.env.ELEVENTY_ENV === 'production';
+const isProduction = process.env.ELEVENTY_ENV === "production";
 
 module.exports = {
 	compressHTML: (content, outputPath) => {
@@ -9,10 +9,10 @@ module.exports = {
 				removeComments: true,
 				collapseWhitespace: true,
 				minifyCSS: true,
-				minifyJS: true
+				minifyJS: true,
 			});
 			return minified;
 		}
 		return content;
-	}
-}
+	},
+};

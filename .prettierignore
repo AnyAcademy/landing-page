@@ -1,0 +1,8 @@
+# GitHub Actions
+/.github
+
+# Jekyll
+/.jekyll-cache
+
+# Build folder
+/dist
