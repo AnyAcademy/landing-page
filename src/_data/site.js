@@ -1,11 +1,11 @@
 module.exports = {
-	title: "Eleventy Web Starter",
+	title: "AnyAcademy",
 	description:
-		"Minimal boilerplate for new projects built with Eleventy, Tailwind, PurgeCSS and PostCSS",
-	url: "https://eleventywebstarter.netlify.app",
-	author: "Chris Collins",
+		"Your online academy for literally everything. Millions of questions. AnyAcademy is your studying companion.",
+	url: "https://any.academy",
+	author: "Ersin Yildirim",
 	meta_data: {
-		twitter: "@chrissy_dev",
+		twitter: "@ersnyldrm1",
 		opengraph_default: "/static/opengraph-default.jpg",
 	},
 	env: process.env.ELEVENTY_ENV === "production",
