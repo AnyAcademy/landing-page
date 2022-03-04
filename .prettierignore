@@ -6,3 +6,6 @@
 
 # Build folder
 /dist
+
+# Node
+/node_modules
