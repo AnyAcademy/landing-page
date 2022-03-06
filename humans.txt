@@ -1,8 +1,8 @@
 
 /* TEAM */
-	Name: Chris Collins
-	Site: https://eleventywebstarter.netlify.app
-Twitter: @chrissy_dev
+	Name: Ersin Yildirim
+	Site: https://any.academy
+Twitter: @ersnyldrm1
 
 
 /* SITE */
