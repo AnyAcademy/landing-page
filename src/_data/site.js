@@ -6,7 +6,7 @@ module.exports = {
 	author: "Ersin Yildirim",
 	meta_data: {
 		twitter: "@ersnyldrm1",
-		opengraph_default: "/static/opengraph-default.jpg",
+		opengraph_default: "/static/images/application-logo/logo-icon.png",
 	},
 	env: process.env.ELEVENTY_ENV === "production",
 };
